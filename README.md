@@ -1,2 +1,2 @@
-# GLOBAL_MACRO_ENGINE
-GLOBAL_MACRO_ENGINE
+# Global Macro Investment Intelligence Platform
+Global Macro Asset & Risk Signals
